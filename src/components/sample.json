@@ -1,0 +1,72 @@
+{
+    "name": "root",
+    "children": [
+      {
+        "name": "Technology",
+        "loc": 300,
+        "children": [
+          {
+            "name": "Software",
+            "loc": 150,
+            "children": [
+              { "name": "AI", "loc": 60 },
+              { "name": "Web Development", "loc": 90 }
+            ]
+          },
+          {
+            "name": "Hardware",
+            "loc": 150,
+            "children": [
+              { "name": "Computers", "loc": 80 },
+              { "name": "Mobile Devices", "loc": 70 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Business",
+        "loc": 250,
+        "children": [
+          {
+            "name": "Finance",
+            "loc": 130,
+            "children": [
+              { "name": "Investment", "loc": 70 },
+              { "name": "Accounting", "loc": 60 }
+            ]
+          },
+          {
+            "name": "Marketing",
+            "loc": 120,
+            "children": [
+              { "name": "SEO", "loc": 50 },
+              { "name": "Advertising", "loc": 70 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Education",
+        "loc": 200,
+        "children": [
+          {
+            "name": "Online Courses",
+            "loc": 100,
+            "children": [
+              { "name": "Programming", "loc": 60 },
+              { "name": "Design", "loc": 40 }
+            ]
+          },
+          {
+            "name": "Offline Classes",
+            "loc": 100,
+            "children": [
+              { "name": "Mathematics", "loc": 50 },
+              { "name": "Science", "loc": 50 }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
